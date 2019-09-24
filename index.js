@@ -1,2 +1,2 @@
 const thatbad = require('thatbad');
-thatbad();
+thatbadf();
